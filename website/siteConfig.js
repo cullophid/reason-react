@@ -32,6 +32,12 @@ const users = [
     infoLink: "https://beopinion.com",
     pinned: true
   },
+   {
+    caption: "Gain",
+    image: "https://raw.githubusercontent.com/SentiaAnalytics/assets/master/Gain%20logo/gainlogo_500px.png",
+    infoLink: "https://gain.ai",
+    pinned: true
+  },
 ];
 
 const examples = [
